@@ -5,7 +5,7 @@ birthday  DATE
 );
 
 INSERT INTO friends (id, name, birthday) 
-VALUES (1, 'Ororo Munroe', '1940-05-30');
+VALUES (1, 'Ororo Munrore', '1940-05-30');
 INSERT INTO friends (id, name, birthday) 
 VALUES (2, 'Charly Lemaindu', '1965-05-30');
 INSERT INTO friends (id, name, birthday) 
