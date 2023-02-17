@@ -71,7 +71,7 @@ ORDER BY
 	SUM(salary)/teams.w 
 	ASC;
 
--- Priciest Starters -- 
+-- Priciest Starters  -- 
 
 SELECT 
 	people.namefirst,
